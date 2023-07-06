@@ -1,5 +1,5 @@
 import os
-from pywinauto import Desktop, Application
+from pywinauto import Application
 from pywinauto.keyboard import send_keys
 import time
 
